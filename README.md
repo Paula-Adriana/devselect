@@ -6,11 +6,6 @@ A proposta se refere à uma solução para melhorar o processo de seleção de p
 <h3 id="prototipo">Protótipo</h3>
 <a href="https://www.figma.com/file/Y71mJGWK9d4ndTmK26mrKw/DevSelect?node-id=0%3A1">Clique aqui</a> para acessar o protótipo.
 
-
-## Preview
-
-Para visualizar a aplicação [clique aqui](http://devselect.tech/). <br/> <br/>
-
 ### Indice
 - <a href="#desafio">Desafio</a>
 - <a href="#solucao">Solução</a>
