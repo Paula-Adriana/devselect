@@ -21,7 +21,7 @@ Com base nessas duas questões principais, pensamos em uma solução que facilit
 <h3 id="solucao">Solução</h3>
 O grupo apresenta como solução o DEVSelect. Uma ferramenta que irá facilitar o processo de seleção de candidatos. <br/> <br/>
 O processo de seleção ocorrerá em até três fases, sendo a primeira o match, a segunda envolverá testes (técnico/língua estrangeira) e a terceira uma entrevista. 
-A funcionalidade match foi pensada com base em aplicativos de relacionamento. Caso as características de procura sejam as mesmas, o perfil dos usuários é conectado. <br/> <br/> Da mesma forma, no DevsSelect, o recrutador decide quais requisitos de soft e hard skills o treinamento necessita e o candidato, ao preencher o formulário de intenção, selecionará as habilidades que ele domina. Se forem as mesmas que o recrutador deseja, o match acontece. <br/> <br/>
+A funcionalidade match foi pensada com base em aplicativos de relacionamento. Caso as características de procura sejam as mesmas, o perfil dos usuários é conectado. <br/> <br/> Da mesma forma, no DevSelect, o recrutador decide quais requisitos de soft e hard skills o treinamento necessita e o candidato, ao preencher o formulário de intenção, selecionará as habilidades que ele domina. Se forem as mesmas que o recrutador deseja, o match acontece. <br/> <br/>
 
 <h3 id="RF">Requisitos Funcionais</h3>
 A plataforma realizará o processo seletivo em 3 etapas distintas. A primeira etapa será o match. Que procura pelas características igualmente selecionadas pelo recrutador e candidato. Facilitando a escolha dos candidatos com maior compatibilidade com os pré-requisitos do curso. A segunda etapa consiste em testes técnicos/língua estrangeira e a terceira etapa envolve a entrevista entre o recrutador, o candidato e uma pessoa técnica. <br/> <br/>
@@ -29,7 +29,7 @@ A plataforma realizará o processo seletivo em 3 etapas distintas. A primeira et
 O match terá três requisitos funcionais: <br/> <br/>
 RF1: Na primeira etapa/tela ocorrerá o cadastro do curso pelo recrutador, contendo os dados do curso e a escolha de hard e soft skills. <br/> <br/>
 RF2: Na segunda etapa/tela ocorrerá o cadastro do candidato ao curso de treinamento, contendo dados pessoais e a escolha das hard e soft skills com as quais o candidato se identifica. <br/> <br/>
-RF3: A terceira e última etapa apresentará a tela de match caso as escolhas de habilidades do recrutador e candidato sejam superiores a 70%. <br/> <br/>
+RF3: A terceira e última etapa apresentará a tela de match caso as escolhas de habilidades do recrutador e candidato sejam as mesmas ou semelhantes. <br/> <br/>
 
 Caso ocorra o match, o candidato passará para a segunda etapa, que consiste em testes técnicos, caso haja esse pré-requisito para o curso de treinamento, assim como um teste em língua estrangeira, se for o caso. A ideia é que o candidato faça presencialmente os testes para melhor acurácia do resultado. Caso seja online, o candidato deve estar ciente que será testado na etapa posterior. Essa etapa visa garantir a homogeneidade de conhecimentos que o curso de treinamento necessita. <br/> <br/>
 
